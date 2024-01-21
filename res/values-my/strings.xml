@@ -25,7 +25,7 @@
     <string name="loading">ခဏစောင့်ပါ\u2026</string>
     <string name="setup_complete">စတင်သတ်မှတ်ခြင်းပြီးဆုံးပါပြီ</string>
     <string name="setup_welcome">ကြိုဆိုပါ၏</string>
-    <string name="setup_welcome_message"><xliff:g id="name" example="AlphaDroid">%1$s</xliff:g> မှ ကြိုဆိုပါတယ်</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="SigmaDroid">%1$s</xliff:g> မှ ကြိုဆိုပါတယ်</string>
     <string name="setup_locale">ဘာသာစကား</string>
     <string name="setup_wifi">ဝိုင်ဖိုင် ရွေးပါ</string>
     <string name="setup_sim_missing">ဆင်းမ်ကဒ် မရှိပါ</string>
@@ -49,7 +49,7 @@
     <string name="yes">လုပ်မည်</string>
     <string name="data_sim_name">ဆင်း(မ်) <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">အရေးပေါ် ခေါ်ဆိုမှု</string>
-    <string name="setup_services">AlphaDroid လုပ်ဆောင်နိုင်မှုများ</string>
+    <string name="setup_services">SigmaDroid လုပ်ဆောင်နိုင်မှုများ</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">လမ်းညွှန်</string>

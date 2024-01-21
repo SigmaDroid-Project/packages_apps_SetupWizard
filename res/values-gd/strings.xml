@@ -49,8 +49,8 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> – <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Gairm-èiginn</string>
     <string name="accessibility_settings">Roghainnean na so-inntrigeachd</string>
-    <string name="setup_services">Gleusan AlphaDroid</string>
-    <string name="services_pp_explanation">Leudaichidh na seirbheisean seo comasan an uidheim agad. Thèid an dàta a chleachdadh a-rèir poileasaidh prìobhaideachd <xliff:g id="name" example="AlphaDroid">%1$s</xliff:g>.</string>
+    <string name="setup_services">Gleusan SigmaDroid</string>
+    <string name="services_pp_explanation">Leudaichidh na seirbheisean seo comasan an uidheim agad. Thèid an dàta a chleachdadh a-rèir poileasaidh prìobhaideachd <xliff:g id="name" example="SigmaDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">’S urrainn dhut am poileasaidh a leughadh air uidheam eile is tu a’ tadhal air <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Cleachd iuchraichean seòladaireachd air an sgrìn</b> seach iuchraichean bathair-chruaidh.</string>
     <string name="settings_biometric_setup_title">Tagh seòrsa dàrnach de ghlasadh na sgrìn</string>
